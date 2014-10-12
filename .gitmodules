@@ -1,0 +1,3 @@
+[submodule "summernote"]
+	path = summernote
+	url = git@github.com:HackerWins/summernote.git
