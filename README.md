@@ -1,10 +1,8 @@
 # Summernote for Meteor
 Super Simple WYSIWYG Editor on Bootstrap 3.0
 
-### Summernote
-Summernote is a javascript program that helps you to create WYSIWYG Editor on web.
+Demo: http://hackerwins.github.io/summernote/
 
-Home Page: http://hackerwins.github.io/summernote/
 
 ### Why Summernote?
 
@@ -15,8 +13,9 @@ Summernote has something specials no like others.
 
 ### Easy to install
 
-### 01. install additional meteor packages
+#### 01. install additional meteor packages
 
+* summernote `meteor add hckrs:summernote`
 * jquery `meteor add jquery`
 * bootstrap-3 `meteor add mizzao:bootstrap-3`
 * fontawesome4 `meteor add chrismbeckett:fontawesome4`
