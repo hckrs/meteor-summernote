@@ -13,21 +13,14 @@ Summernote has something specials no like others.
 
 ### Easy to install
 
-#### 01. install additional meteor packages
+```meteor add hckrs:summernote```
 
-* summernote `meteor add hckrs:summernote`
-* jquery `meteor add jquery`
-* bootstrap-3 `meteor add mizzao:bootstrap-3`
-* fontawesome4 `meteor add chrismbeckett:fontawesome4`
+### Easy to use
 
-
-#### 02. target elements
 And place `div` tag to somewhere in the `body` tag. This element will be placed by the visual representation of the summernote.
 ```html
 <div id="summernote">Hello Summernote</div>
 ```
-
-#### 03. summernote
 Finally, run script after document ready.
 ```javascript
 $(document).ready(function() {
