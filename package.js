@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Summernote WYSIWYG editor repackaged for Meteor",
-  version: "0.0.1",
+  version: "0.1.0",
   git: "https://github.com/hckrs/meteor-summernote.git"
 });
 
